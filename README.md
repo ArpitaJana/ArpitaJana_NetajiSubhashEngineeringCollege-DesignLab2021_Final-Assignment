@@ -27,10 +27,6 @@ sudo npm install express express-session mysql pug-cli bcrypt util.promisify
 ### Start the application
 
 ```
-npm start
-```
-or
-```
 node app
 ```
 ### Database
